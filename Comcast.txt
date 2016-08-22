@@ -1,0 +1,7 @@
+
+
+Gateway: Advanced wireless gateway support
+
+WPA2 PSK
+
+CR 541084045
